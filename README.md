@@ -1,5 +1,5 @@
 # WaveProject
-This app shows a list of WAVE products.
+This app shows a list of WAVE products. It supports API 23+.
 
 The apk file is located at ../app/build/outputs/apk
 
